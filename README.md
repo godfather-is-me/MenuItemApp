@@ -1,6 +1,6 @@
-# menu_item_app
+# Items Menu App
 
-A new Flutter project.
+Deli style menu app with focus on Navigation techniques, recommendations, and dynamic animation - Second Flutter App
 
 ## Getting Started
 
